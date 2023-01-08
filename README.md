@@ -6,8 +6,8 @@ Aerosky Real Estate HTML Responsive Website Template is a well designed for indu
 
 
 Credits :
--------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
+
+Design and developed: "WebThemez"  http://webthemez.com
+Photos used in template: **Unsplash** - http://unsplash.com
+For more free web themes: http://webthemez.com
+Framework : http://getbootstrap.com
